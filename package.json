@@ -1,0 +1,14 @@
+{
+  "name": "website-pengunjung",
+  "version": "1.0.0",
+  "description": "Website untuk mencatat pengunjung",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Anda",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
